@@ -13,6 +13,11 @@ body {
   color: #4e4e4e;
 }
 
+.videos{
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+}
+
 h1,
 h2,
 h3,
@@ -92,7 +97,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 .overlay-mf {
@@ -671,7 +676,7 @@ a:hover {
   position: absolute;
 }
 .hero .overlay-itro {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.5);
   position: absolute;
   top: 0;
   left: 0px;
@@ -1284,7 +1289,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #343a40;
 }
 footer .copyright {
   margin-bottom: 0.3rem;
