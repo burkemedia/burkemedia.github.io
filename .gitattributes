@@ -1,2 +1,4 @@
 BurkeMedia/assets/img/tenOfUs.mov filter=lfs diff=lfs merge=lfs -text
 BurkeMedia/assets/img/PersonalDoc.mp4 filter=lfs diff=lfs merge=lfs -text
+BurkeMedia/assets/img/tenOfUs.mov filter=lfs diff=lfs merge=lfs -text
+BurkeMedia/assets/img/PersonalDoc.mp4 filter=lfs diff=lfs merge=lfs -text
